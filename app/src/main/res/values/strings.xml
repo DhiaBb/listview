@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string-array name="pays">
+        <item>Tunisie</item>
+        <item>Tunisie</item>
+        <item>Tunisie</item>
+        <item>Tunisie</item>
+    </string-array>
+</resources>
